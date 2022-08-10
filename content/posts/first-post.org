@@ -1,0 +1,10 @@
+---
+title: "Hugo+org-modeでサイト作成"
+date: 2022-08-10T16:28:15+09:00
+tags: ["emacs", "org-mode"]
+---
+
+[[https://orgmode.org/ja/][org-mode]]というものの存在を最近知り、これで技術メモを作ってみようと思ったのでとりあえずやってみる・・・。
+Hugoがorg-mode対応していたので、Hugoで公開してみました。
+
+org-modeもだけど、まずそもそもEmacsを全然使ったことがないので、Emacsに慣れるところから・・・！
